@@ -2,7 +2,7 @@
 
 ## Author
 
-
+Skyler Dare
 
 ## Description
 
@@ -83,8 +83,8 @@ Solution Requirements:
 
 ## Outside Resources Used
 
-
+none
 
 ## Known Problems, Issues, And/Or Errors in the Program
 
-
+none
